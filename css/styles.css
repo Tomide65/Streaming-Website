@@ -1,0 +1,80 @@
+.login-icon{
+    color: white;
+}
+
+.dropdown-menu{
+    margin-left: 80%;
+}
+
+.drop{
+    color: white;
+}
+
+header{
+    width: auto;
+    height: 700px;
+    background: url(https://m.media-amazon.com/images/S/pv-target-images/48a1d77ee964a0503c1330a99019296d3cbe500ef099eca34fdc989915b6cb65.jpg);
+    background-size: cover;
+}
+
+.jumbotron{
+    background: transparent;
+    position: absolute;
+    top: 150px;
+
+}
+
+.jumbotron h1{
+    font-size: 4em;
+}
+
+.top-text{
+    background-color:  red;
+    width: 120px;
+    padding: 0 10px;
+    border-radius: 5px;
+    margin-bottom: 16px;
+}
+
+.desc{
+    text-shadow: 0 0 3px;
+    color: antiquewhite;
+}
+
+.btn-hero-btn-1{
+    background-color: red;
+    border: none;
+    
+}
+.btn-hero-btn-1:hover{
+    background-color: rgb(36, 36, 36);
+}
+
+.btn-hero-btn-2{
+    background-color: rgb(84 , 84, 84);
+    width: 100px;
+    border: none;
+}
+
+.btn-hero-btn-2:hover{
+    background-color: black;
+}
+
+main{
+    height: 250px;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+}
+
+.row-wrapper{
+    display: flex;
+    overflow-x: auto;
+}
+
+.row-wrapper img{
+ width: 400px;
+ height: 200px;
+ padding: 0 10px;
+}
+

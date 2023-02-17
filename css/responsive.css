@@ -1,0 +1,38 @@
+@media (max-width:579px){
+    .dropdown-menu{
+        margin-left: 65%;
+    }
+
+    header{
+        width: auto;
+        height: 50vh;
+        background: url(https://m.media-amazon.com/images/S/pv-target-images/48a1d77ee964a0503c1330a99019296d3cbe500ef099eca34fdc989915b6cb65.jpg);
+        background-size: cover;
+    }
+    
+    .jumbotron{
+        background: transparent;
+        position: absolute;
+        top: 30px;
+    
+    }
+    
+    .jumbotron h1{
+        font-size: 3em;
+    }
+    
+    .top-text{
+
+        background-color:  red;
+        width: 70px;
+        padding: 0 10px;
+        border-radius: 5px;
+        margin-bottom: -7px;
+    }
+    
+    .desc{
+        text-shadow: 0 0 3px;
+        color: red;
+        font-size: 12px;
+    }
+}
